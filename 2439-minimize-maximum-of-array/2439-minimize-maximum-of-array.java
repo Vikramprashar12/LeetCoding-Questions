@@ -1,15 +1,13 @@
 class Solution {
     public int minimizeArrayValue(int[] nums) {
-        // Initialize answer and the prefix sum.
-        long answer = 0, prefixSum = 0;   
+		long total = 0;
+		int minOfMax = -1;
+		for (int i = 0; i < nums.length; ++i) {
+			total += nums[i];
+			minOfMax = Math.max(minOfMax, (int) Math.ceil(((total)*1.0 / (i + 1)*1.0)));
+		}
 
-        // Iterate over nums, update prefix sum and answer.
-        for (int i = 0; i < nums.length; ++i) {
-            prefixSum += nums[i];
-            answer = Math.max(answer, (prefixSum + i) / (i + 1));
-        }
-
-        return (int)answer;
+		return minOfMax;
     }
     
 }
