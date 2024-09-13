@@ -14,4 +14,8 @@ This is my journey, feel free to follow along!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
