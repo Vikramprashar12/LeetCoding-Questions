@@ -10,6 +10,7 @@ This is my journey, feel free to follow along!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0001-two-sum) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@ This is my journey, feel free to follow along!
 | [1258-article-views-i](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
