@@ -10,11 +10,13 @@ This is my journey, feel free to follow along!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0217-contains-duplicate) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |
@@ -30,5 +32,6 @@ This is my journey, feel free to follow along!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0217-contains-duplicate) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
