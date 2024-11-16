@@ -11,6 +11,7 @@ This is my journey, feel free to follow along!
 | ------- |
 | [0001-two-sum](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -39,5 +40,6 @@ This is my journey, feel free to follow along!
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 <!---LeetCode Topics End-->
