@@ -42,4 +42,20 @@ This is my journey, feel free to follow along!
 | ------- |
 | [0792-binary-search](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0792-binary-search) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
