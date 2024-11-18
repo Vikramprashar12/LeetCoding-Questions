@@ -1,13 +1,14 @@
 class Solution:
-    def maximumBeauty(self, items: list[list[int]], queries: list[int]) -> list[int]:
-        answer = [0] * len(queries)
-        items = sorted(items)
+    def maximumBeauty(self, items: List[List[int]], queries: List[int]) -> List[int]:
+        items.sort()
+        print(items)
         queries = sorted([(q, i) for i, q in enumerate(queries)])
-
-        itemsPointer, maxBeauty = 0, 0
-        for q, i in queries:
-            while itemsPointer < len(items) and items[itemsPointer][0] <= q :
-                maxBeauty = max(items[itemsPointer][1], maxBeauty)
-                itemsPointer += 1
-            answer[i] = maxBeauty
-        return answer
+        print(queries)
+        res = [0]*len(queries)
+        counter, maxBeauty = 0, 0
+        for query, originalIndex in queries:
+            while (counter < len(items)) and (items[counter][0] <= query):
+                maxBeauty = max(items[counter][1], maxBeauty)
+                counter += 1
+            res[originalIndex] = maxBeauty
+        return res
