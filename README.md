@@ -18,6 +18,7 @@ This is my journey, feel free to follow along!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -58,4 +59,12 @@ This is my journey, feel free to follow along!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Vikramprashar12/LeetCoding-Questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
