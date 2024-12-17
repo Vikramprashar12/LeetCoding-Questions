@@ -4,4 +4,4 @@
 # Step 2b: Create subquery filtered for only 'Y' in the recyclable column.
 # Step 3: Inner Join the two queries.
 
- select product_id from Products where low_fats = 'Y' and recyclable = 'Y';
+SELECT product_id FROM Products WHERE low_fats = "Y" AND recyclable = "Y"
